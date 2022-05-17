@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.hvp.eed.examen.OptimizacionYDocumentacion","l":"EdadErroneaException"},{"p":"com.hvp.eed.examen.OptimizacionYDocumentacion","l":"Mascota"},{"p":"com.hvp.eed.examen.OptimizacionYDocumentacion","l":"Perro"}];updateSearchResults();
